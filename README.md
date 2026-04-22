@@ -7,7 +7,7 @@
 | **CPU** | 4 Cores | 8 Cores |
 | **RAM** | 8 GB | 16 GB |
 | **SSD** | 200 GB NVMe | 500 GB NVMe |
-| **OS** | Ubuntu 22.04 | Ubuntu 22.04 |
+| **OS** | Ubuntu 24.04 | Ubuntu 24.04 |
 
 ## 🛠 Installation Steps
 
