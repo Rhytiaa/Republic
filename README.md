@@ -145,3 +145,10 @@ sudo rm /usr/local/bin/republicd
 rm -rf $HOME/.republic
 rm -rf $HOME/go/bin/republicd
 ```
+
+
+
+
+
+
+
